@@ -15,8 +15,8 @@ def mul(a, b):
 
 
 # Division
-def div(a, b):
-    return a / b
+def div(a,b):
+    return (a/b)
 
 
 if __name__ == "__main__":
